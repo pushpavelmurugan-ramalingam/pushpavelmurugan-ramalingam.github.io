@@ -1,1 +1,43 @@
+header{
 
+    padding:100px 0;
+
+    text-align:center;
+
+}
+
+h1{
+
+    font-size:56px;
+
+    margin-bottom:20px;
+
+    color:#111827;
+
+}
+
+h2{
+
+    font-size:24px;
+
+    font-weight:400;
+
+    color:#2563eb;
+
+    margin-bottom:30px;
+
+}
+
+p{
+
+    max-width:850px;
+
+    margin:auto;
+
+    font-size:22px;
+
+    line-height:1.8;
+
+    color:#4b5563;
+
+}
